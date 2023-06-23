@@ -1,4 +1,4 @@
-package com.havik;
+package com.work;
 
 public class DeluxeACRoom extends DeluxeRoom{
 	

@@ -1,4 +1,4 @@
-package com.havik;
+package com.work;
 
 public class TwoWheeler extends Vehicle {
 	
