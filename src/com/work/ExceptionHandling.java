@@ -14,7 +14,7 @@ public class ExceptionHandling {
 		String username = sc.next();
 		System.out.println("Enter password");
 		String password = sc.next();
-		if(username=="admin"&&password=="admin123")
+		if(username.equalsIgnoreCase("admin")&&password.equalsIgnoreCase("admin123"))
 		{
 			System.out.println("Login Successful");
 		}
